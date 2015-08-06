@@ -1,0 +1,14 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/129/coo.31924054870344/004.png"; bbox 0 0 2055 3137; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1324 0 2055 3137">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1324 0 2005 870">
+     <span class='ocr_line' id='line_1_1' title="bbox 1702 0 2005 229; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1702 0 1957 229; x_wconf 54' lang='grc' dir='ltr'><strong>’ἶ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2003 43 2005 53; x_wconf 73' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1606 233 1860 392; baseline 0 -35"><span class='ocrx_word' id='word_1_3' title='bbox 1606 233 1860 392; x_wconf 54' lang='grc' dir='ltr'><strong>θ’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1512 395 1764 550; baseline 0 -31"><span class='ocrx_word' id='word_1_4' title='bbox 1512 395 1764 550; x_wconf 54' lang='grc' dir='ltr'><strong>δ’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1324 726 1570 870; baseline 0.041 -39"><span class='ocrx_word' id='word_1_5' title='bbox 1324 761 1434 870; x_wconf 55' lang='grc' dir='ltr'>,θ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1457 726 1570 841; x_wconf 54' lang='grc' dir='ltr'>θ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
